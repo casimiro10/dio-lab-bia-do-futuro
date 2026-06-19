@@ -1,0 +1,118 @@
+{
+  "assistente": {
+    "nome": "CopaCast",
+    "descricao": "Assistente virtual especializado em Copa do Mundo FIFA",
+    "versao": "1.0"
+  },
+  "copas": [
+    {
+      "ano": 1930,
+      "sede": "Uruguai",
+      "campeao": "Uruguai",
+      "vice": "Argentina",
+      "artilheiro": "Guillermo Stábile",
+      "gols_artilheiro": 8
+    },
+    {
+      "ano": 1958,
+      "sede": "Suécia",
+      "campeao": "Brasil",
+      "vice": "Suécia",
+      "artilheiro": "Just Fontaine",
+      "gols_artilheiro": 13
+    },
+    {
+      "ano": 1970,
+      "sede": "México",
+      "campeao": "Brasil",
+      "vice": "Itália",
+      "artilheiro": "Gerd Müller",
+      "gols_artilheiro": 10
+    },
+    {
+      "ano": 1994,
+      "sede": "Estados Unidos",
+      "campeao": "Brasil",
+      "vice": "Itália",
+      "artilheiro": "Oleg Salenko",
+      "gols_artilheiro": 6
+    },
+    {
+      "ano": 2002,
+      "sede": "Coreia/Japão",
+      "campeao": "Brasil",
+      "vice": "Alemanha",
+      "artilheiro": "Ronaldo",
+      "gols_artilheiro": 8
+    },
+    {
+      "ano": 2018,
+      "sede": "Rússia",
+      "campeao": "França",
+      "vice": "Croácia",
+      "artilheiro": "Harry Kane",
+      "gols_artilheiro": 6
+    },
+    {
+      "ano": 2022,
+      "sede": "Qatar",
+      "campeao": "Argentina",
+      "vice": "França",
+      "artilheiro": "Kylian Mbappé",
+      "gols_artilheiro": 8
+    },
+    {
+      "ano": 2026,
+      "sede": "EUA, México e Canadá",
+      "campeao": null,
+      "vice": null,
+      "artilheiro": null,
+      "status": "Próxima edição"
+    }
+  ],
+  "recordes": {
+    "mais_titulos": "Brasil com 5 títulos",
+    "maior_artilheiro_historia": "Miroslav Klose com 16 gols",
+    "maior_goleada": "Hungria 10 x 1 El Salvador em 1982",
+    "mais_copas_jogadas": "Lothar Matthäus com 5 Copas"
+  },
+  "selecoes": [
+    {
+      "pais": "Brasil",
+      "titulos": 5,
+      "anos": [1958, 1962, 1970, 1994, 2002],
+      "apelido": "Canarinho"
+    },
+    {
+      "pais": "Alemanha",
+      "titulos": 4,
+      "anos": [1954, 1974, 1990, 2014],
+      "apelido": "Die Mannschaft"
+    },
+    {
+      "pais": "Itália",
+      "titulos": 4,
+      "anos": [1934, 1938, 1982, 2006],
+      "apelido": "Azzurra"
+    },
+    {
+      "pais": "Argentina",
+      "titulos": 3,
+      "anos": [1978, 1986, 2022],
+      "apelido": "Albiceleste"
+    },
+    {
+      "pais": "França",
+      "titulos": 2,
+      "anos": [1998, 2018],
+      "apelido": "Les Bleus"
+    }
+  ],
+  "curiosidades": [
+    "O Brasil é o único país a ter participado de todas as edições da Copa do Mundo",
+    "A Copa de 2026 será a primeira com 48 seleções participantes",
+    "Pelé é o único jogador a conquistar 3 títulos mundiais",
+    "A taça atual da Copa do Mundo foi criada em 1974",
+    "Just Fontaine marcou 13 gols em uma única Copa — recorde até hoje"
+  ]
+}
